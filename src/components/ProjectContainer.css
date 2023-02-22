@@ -1,0 +1,15 @@
+.project-container {
+    margin: 30px 20px 50px 20px; 
+    max-width: 500px;
+    border-bottom: 5px black;
+}
+
+.links {
+    margin-right: 20px;
+}
+
+.image {
+    margin-top: 10px; 
+    max-width: 50vh;
+}
+
